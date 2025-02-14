@@ -1,33 +1,35 @@
 cff-version: 1.2.0
-message: "If you use this research, please cite it using the following metadata"
+message: "If you use this research, please cite it as below."
 authors:
-
-family-names: "Lauttia"
-given-names: "Riku"
+  - family-names: "Lauttia"
+    given-names: "Riku"
 title: "The Role of Artificial Intelligence in Analyzing Large Datasets and Its Utilization in Commercial Decision-Making"
 type: thesis
 date-released: 2025-02-14
 url: "https://github.com/rikulauttia/AI-Commercial-DecisionMaking"
-abstract: >-
-This bachelor's thesis explores the transformative role of Artificial Intelligence
-in analyzing large datasets and its practical applications in commercial decision-making.
-The research investigates how AI-driven insights are revolutionizing business strategy
-and operational efficiency through comprehensive analysis and real-world applications.
+abstract: "This bachelor's thesis explores the transformative role of Artificial Intelligence in analyzing large datasets and its practical applications in commercial decision-making. The research investigates how AI-driven insights are revolutionizing business strategy and operational efficiency through comprehensive analysis and real-world applications."
 keywords:
-artificial intelligence
-machine learning
-big data
-commercial decision-making
-business intelligence
-data analysis
-version: 1.0.0
+  - "artificial intelligence"
+  - "machine learning"
+  - "big data"
+  - "commercial decision-making"
+  - "business intelligence"
+  - "data analysis"
+version: "1.0.0"
 license: MIT
+repository-code: "https://github.com/rikulauttia/AI-Commercial-DecisionMaking"
 institution:
-name: "University of Turku"
-city: "Turku"
-country: "FI"
-language: mul # multiple languages
-references:
-type: website
-url: "https://www.utu.fi/en"
-title: "University of Turku"
+  name: "University of Turku"
+  address: "20014 Turun yliopisto"
+  city: "Turku"
+  country: FI
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Lauttia"
+      given-names: "Riku"
+  title: "The Role of Artificial Intelligence in Analyzing Large Datasets and Its Utilization in Commercial Decision-Making"
+  year: 2025
+  institution:
+    name: "University of Turku"
+    country: FI
