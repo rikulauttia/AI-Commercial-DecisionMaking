@@ -53,31 +53,6 @@ This thesis contributes to the field of AI and commercial decision-making by:
 └── Tekoälyn rooli suurten datamassojen analysoinnissa ja sen hyödyntäminen kaupalliseen päätöksentekoon.docx
 ```
 
-## Citation
-
-If you find this research valuable, please cite:
-
-```bibtex
-@thesis{Lauttia2025,
-    author = {Lauttia, Riku},
-    title = {The Role of Artificial Intelligence in Analyzing Large Datasets and Its Utilization in Commercial Decision-Making},
-    school = {University of Turku},
-    year = {2025},
-    type = {Bachelor's Thesis}
-}
-```
-
-## Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/rikulauttia/AI-Commercial-DecisionMaking.git
-```
-
-2. Navigate to your preferred language version in the repository
-3. The PDF files contain bookmarks for easy navigation through different sections
-
 ## Contributing
 
 While this is an academic thesis, I welcome:
@@ -89,7 +64,7 @@ While this is an academic thesis, I welcome:
 
 ## Connect & Follow
 
-- 🎓 [University Profile](https://www.utu.fi)
+- 🌐 [Personal Website](https://rikulauttia.com)
 - 💼 [LinkedIn](https://linkedin.com/in/rikulauttia)
 - 🐙 [GitHub](https://github.com/rikulauttia)
 
